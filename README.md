@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi 👋, I'm Ashish Shrestha
+## IT Student | Tech Enthusiast | Passionate about DevOps, Networking and Web Development
 🌱 I’m currently learning MERN Stack<br>💬 Ask me about Programming and Technology<br>⚡ Fun fact I like bits, not bytes
 
 [![](https://visitcount.itsvg.in/api?id=ashish-shr&icon=0&color=0)](https://visitcount.itsvg.in)
