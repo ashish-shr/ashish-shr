@@ -9,7 +9,7 @@
 ## 🌐Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashish.ctha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishshrestha/) 
 
-# 🛠Language and Tools:
+# ⚒️Language and Tools:
   <a href="https://skillicons.dev">
     <img style="aspect-ratio: 1 / 1;" src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,bash,html,css,sass,javascript,ts,php,mysql,mongodb,express,react,nodejs,linux,aws,azure,docker,kubernetes,figma,vscode,git,github&perline=10&theme=dark" />
   </a>
