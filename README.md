@@ -1,13 +1,15 @@
 <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/developer.svg" width="250px" align="left" />
 
 # Hi 👋, I'm Ashish Shrestha
-## IT Student | Tech Enthusiast | Passionate about DevOps, Networking and Web Development
+## IT Student | Tech Enthusiast | Passionate about DevOps, Networking, and Web Development
 🌱 I’m currently learning MERN Stack<br>💬 Ask me about Programming and Technology<br>⚡ Fun fact I like bits, not bytes
 
 [![](https://visitcount.itsvg.in/api?id=ashish-shr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
+<p align = "center">
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashish.ctha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ash-shrestha) 
+</p>
 
 # 💻 Language and Tools:
 <p align="center">
@@ -17,11 +19,9 @@
 </p>
 
 # 📊 GitHub Stats:
+<p align = "center">
 ![](https://github-readme-stats.vercel.app/api?username=ashish-shr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashish-shr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-shr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
