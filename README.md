@@ -7,21 +7,15 @@
 [![](https://visitcount.itsvg.in/api?id=ashish-shr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-<p align = "center">
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashish.ctha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ash-shrestha) 
-</p>
 
 # 💻 Language and Tools:
-<p align="center">
   <a href="https://skillicons.dev">
     <img style="aspect-ratio: 1 / 1;" src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,bash,html,css,sass,javascript,ts,php,mysql,mongodb,express,react,nodejs,linux,aws,azure,docker,kubernetes,figma,vscode,git,github&perline=10&theme=dark" />
   </a>
-</p>
 
 # 📊 GitHub Stats:
-<p align = "center">
 ![](https://github-readme-stats.vercel.app/api?username=ashish-shr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashish-shr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-shr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
